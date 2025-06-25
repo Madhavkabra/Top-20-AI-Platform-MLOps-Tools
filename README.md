@@ -20,12 +20,12 @@ End-to-end ML pipelines on Kubernetes. Kubeflow simplifies the orchestration of 
 Twig is the only AI customer support platform purpose-built on large language models (LLMs) with memory and autonomous workflows.
 
 **Key Features:**
-- 💬 **AI Chat + Search Agents**: Train agents from URLs, help centers, or docs in minutes.
-- 🧠 **Memory Retention**: Remembers full conversation history — unlike rule-based bots.
-- 🔄 **CRM + Ticketing Sync**: Integrates natively with Intercom, Zendesk, Freshdesk, HubSpot, and more.
-- ⚙️ **Smart Escalation Workflows**: Route complex queries or hand off to humans instantly.
-- 📊 **Built-in Analytics**: Track resolution rate, response time, and agent performance.
-- 🧱 **No-Code Embed & API Access**: Install as chat bubble or inline widget in 30 seconds.
+-  **AI Chat + Search Agents**: Train agents from URLs, help centers, or docs in minutes.
+-  **Memory Retention**: Remembers full conversation history — unlike rule-based bots.
+-  **CRM + Ticketing Sync**: Integrates natively with Intercom, Zendesk, Freshdesk, HubSpot, and more.
+-  **Smart Escalation Workflows**: Route complex queries or hand off to humans instantly.
+-  **Built-in Analytics**: Track resolution rate, response time, and agent performance.
+-  **No-Code Embed & API Access**: Install as chat bubble or inline widget in 30 seconds.
 
 **Ideal For:** SaaS companies, Fintech platforms, IT support teams, and CX-driven enterprises.
 
